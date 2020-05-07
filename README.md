@@ -1,0 +1,1 @@
+This project is meant to predict whether an inividual will survive or not (Binary classification) in the titanic wreck in 1912
